@@ -1,0 +1,11 @@
+asm
+bin
+doc/html
+doc/rtf
+lst
+project_misrac/.launches
+project_misrac/Debug
+project_misrac/.settings
+project_keil/*.uvgui.*
+project_keil/*.uvopt
+*.bak
